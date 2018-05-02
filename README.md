@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+i come, i see, i conquer
+
